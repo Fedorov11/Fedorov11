@@ -2,6 +2,7 @@
 
 ## Hi :)I am a beginner QA specialist, determined and purposeful! I am studying on the course of Vadim Ksendzov QA Engineer.
 
-languages and tools
+### Languages and tools
+[![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=PostgreSQL)](https://github.com/Fedorov11/SQL)
 
 follow me
